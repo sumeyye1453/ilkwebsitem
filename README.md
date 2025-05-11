@@ -9,7 +9,7 @@
    
  <p>herkes <a href="https://tr.pinterest.com/romipins/cute-cats/"> tatlı kedi</a>sever!</p>
  <p>daha fazla <a href="https://unsplash.com/s/photos/cute-cat"> kedi fotoğrafı</a> için</p>
-    <img src="cute.jpg">
+    <img src="sevimli.jpg">
  <h2>kedi listesi</h2>
  <br>
  <br>
@@ -20,7 +20,7 @@
     <li>süt</li>
     <li>lazanya</li>
  </ul>
-    <img src="images.jpg">
+    <img src="resimler.jpg">
     <i>kediler yemeği sever</i>
     <br>
     <br>
